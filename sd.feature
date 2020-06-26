@@ -1,4 +1,3 @@
-@MANUAL
 Feature: sd
 
   sd
