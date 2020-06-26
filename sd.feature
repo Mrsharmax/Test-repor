@@ -2,7 +2,7 @@ Feature: sd
 
   sd
 
-  @ORPHAN
+  @ORPHAN @MANUAL
   Scenario: dd
 
   @ORPHAN
