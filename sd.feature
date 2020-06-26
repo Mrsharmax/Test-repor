@@ -2,7 +2,7 @@ Feature: sd
 
   sd
 
-  @ORPHAN @MANUAL
+  @MANUAL @NPB-3 @WIP
   Scenario: hacked
 
   @ORPHAN
